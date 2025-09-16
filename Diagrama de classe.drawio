@@ -30,7 +30,7 @@
         <mxCell id="Cg_36E5Ox_EKI302Rjeo-6" value="- fazerPedido()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Cg_36E5Ox_EKI302Rjeo-1" vertex="1">
           <mxGeometry y="164" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xKiWs514_R8PKGlK2kfR-3" value="- visualizarCarrinho()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Cg_36E5Ox_EKI302Rjeo-1" vertex="1">
+        <mxCell id="xKiWs514_R8PKGlK2kfR-3" value="+ visualizarCarrinho()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Cg_36E5Ox_EKI302Rjeo-1" vertex="1">
           <mxGeometry y="190" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xKiWs514_R8PKGlK2kfR-2" value="+ atualizarDados()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Cg_36E5Ox_EKI302Rjeo-1" vertex="1">
