@@ -86,7 +86,7 @@
           <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="adGPQmQ8nAiYl6YlBTTS-3" value="Produto" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="360" width="190" height="268" as="geometry">
+          <mxGeometry x="-250" y="360" width="190" height="268" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -279,7 +279,7 @@
             <mxPoint x="30" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKiWs514_R8PKGlK2kfR-14" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="adGPQmQ8nAiYl6YlBTTS-27" edge="1">
+        <mxCell id="xKiWs514_R8PKGlK2kfR-14" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.004;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="adGPQmQ8nAiYl6YlBTTS-12" target="adGPQmQ8nAiYl6YlBTTS-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-260" y="498" as="sourcePoint" />
             <mxPoint x="-80" y="613" as="targetPoint" />
@@ -287,7 +287,7 @@
         </mxCell>
         <mxCell id="xKiWs514_R8PKGlK2kfR-15" value="1..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="xKiWs514_R8PKGlK2kfR-14" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-20" y="-28" as="offset" />
+            <mxPoint x="-31" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xKiWs514_R8PKGlK2kfR-16" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="xKiWs514_R8PKGlK2kfR-14" connectable="0" vertex="1">
