@@ -275,14 +275,14 @@
             <mxPoint x="-80" y="613" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKiWs514_R8PKGlK2kfR-15" value="1..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="xKiWs514_R8PKGlK2kfR-14" connectable="0" vertex="1">
+        <mxCell id="xKiWs514_R8PKGlK2kfR-15" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" parent="xKiWs514_R8PKGlK2kfR-14" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-31" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKiWs514_R8PKGlK2kfR-16" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="xKiWs514_R8PKGlK2kfR-14" connectable="0" vertex="1">
+        <mxCell id="xKiWs514_R8PKGlK2kfR-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;1..n&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" parent="xKiWs514_R8PKGlK2kfR-14" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="20" y="-28" as="offset" />
+            <mxPoint x="30" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B1BrV4EoN0yX-AyWGLp0-5" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="1">
